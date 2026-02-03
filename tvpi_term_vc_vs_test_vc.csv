@@ -1,0 +1,17 @@
+quarter_end,tvpi,series
+2023-12-31,1.2087844295988106,historical_term_vc
+2024-03-31,1.2085766068639139,historical_term_vc
+2024-06-30,1.2085766068639139,historical_term_vc
+2024-09-30,1.2085766068639139,historical_term_vc
+2024-12-31,1.2085766068639139,historical_term_vc
+2025-03-31,1.2085766068639139,historical_term_vc
+2025-06-30,1.2085766068639139,historical_term_vc
+2025-09-30,1.2085766068639139,historical_term_vc
+2025-12-31,,projected_test_vc
+2026-03-31,,projected_test_vc
+2026-06-30,,projected_test_vc
+2026-09-30,,projected_test_vc
+2026-12-31,,projected_test_vc
+2027-03-31,,projected_test_vc
+2027-06-30,0.8750146973547815,projected_test_vc
+2027-09-30,0.7858879710363211,projected_test_vc
